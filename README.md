@@ -1,3 +1,6 @@
+# Acknowledgments
+This is an adaptation of https://github.com/LeNPaul/academic (by Paul Le). Thanks!
+
 # academic
 
 ### A Jekyll theme for academia
