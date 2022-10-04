@@ -1,0 +1,12 @@
+<div class="row g-5 mb-5">
+  <div>
+    <h3 class="fw-bold border-bottom pb-3 mb-5">Teaching</h3>
+    {% for item in site.data.settings.teaching %}
+    <div class="row g-b mb-5">
+      <h4>{{ teaching.name }}</h4>
+      <p>{{ teaching.institution }}, {{ teaching.date }}</p>
+      <p>{{ teaching.description }}</p>
+    </div>
+    {% endfor %}
+  </div>
+</div>

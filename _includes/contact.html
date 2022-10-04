@@ -4,14 +4,11 @@
     {% for contact in site.data.settings.contacts %}
     <div class="row g-5 mb-5">
       <div class="col-md-6">
-        <h4>{{ contact.name }}</h4>
         <p>{{ contact.role }}</p>
        	<p>{{ contact.department }}</p>
 	<p>{{ contact.institution }}</p>
 	<p><b>Email</b>: {{ contact.email }}</p>
-	<p><b>Github</b>: {{ contact.github }}</p>
-	<p><b>Twitter</b>: {{ contact.twitter }}</p>
-	<p><b>LinkedIn</b>: {{ contact.linkedin }}</p>
+	<p><b>Github, Twitter, LinkedIn:</b> <i>see footer</i></p>
       </div>
       <div class="col-md-6">
         <img src="{{ site.github.url }}/{{ contact.image }}" alt="Contact" width="50%">

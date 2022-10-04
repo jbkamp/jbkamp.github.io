@@ -1,13 +1,8 @@
 menu:
 - {name: 'publications', url: '/publications'}
-- {name: 'courses', url: '/courses'}
+- {name: 'teaching', url: '/teaching'}
 - {name: 'cv', url: '/cv'}
 - {name: 'contact', url: '/contact'}
-
-courses:
-- {name: 'Vector Calculus', url: 'vector-calculus'}
-- {name: 'Quantum Mechanics', url: 'quantum-mechanics'}
-- {name: 'Stellar Structures', url: 'stellar-structures'}
 
 social:
 - {icon: 'github', link: 'https://github.com/jbkamp'}
@@ -15,4 +10,12 @@ social:
 - {icon: 'linkedin', link: 'https://linkedin.com/in/jonathan-kamp'}
 
 contacts:
-- {name: 'Jonathan Kamp', role: 'PhD Candidate', department: 'Computational Linguistics and Text Mining Lab', institution: 'Vrije Universiteit Amsterdam', email: 'j( dot )b( dot )kamp( at )vu( dot )nl', github: 'jbkamp', twitter: 'jb_kamp', linkedin: 'jonathan-kamp', image: 'assets/img/cltl_logo.png'}
+- {name: 'Jonathan Kamp', role: 'PhD Candidate', department: 'Computational Linguistics and Text Mining Lab', institution: 'Vrije Universiteit Amsterdam', email: 'j.b.kamp~at~vu.nl', image: 'assets/img/cltl_logo.png'}
+
+teaching:
+- {name: 'NLP Research Seminar', institution: 'Vrije Universiteit Amsterdam', date: 'Sep.-Oct. 2022', description: 'some description'}
+- {name: 'cl', institution: 'Utrecht University', date: '2019', description: 'some description'}
+- {name: 'cl', institution: 'Utrecht University', date: '2019', description: 'some description'}
+- {name: 'cl', institution: 'Utrecht University', date: '2018', description: 'some description'}
+- {name: 'cl', institution: 'Utrecht University', date: '2018', description: 'some description'}
+- {name: 'cl', institution: 'Utrecht University', date: '2018', description: 'some description'} 
