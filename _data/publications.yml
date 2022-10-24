@@ -1,2 +1,2 @@
 index:
-- {name: 'Kamp, J., Beinborn, L., & Fokkens, A. (2022). Perturbations and Subpopulations for Testing Robustness in Token-Based Argument Unit Recognition. <i>arXiv preprint arXiv:2209.14780.</i>', url: 'https://arxiv.org/abs/2209.14780'}
+- {name: 'Jonathan Kamp, Lisa Beinborn, and Antske Fokkens. 2022. Perturbations and Subpopulations for Testing Robustness in Token-Based Argument Unit Recognition. In <i>Proceedings of the 9th Workshop on Argument Mining</i>, pages 62–73, Online and in Gyeongju, Republic of Korea. International Conference on Computational Linguistics.', url: 'https://aclanthology.org/2022.argmining-1.5/'}
