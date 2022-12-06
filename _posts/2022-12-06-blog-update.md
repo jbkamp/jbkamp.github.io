@@ -1,0 +1,4 @@
+---
+layout: post
+title: "Moonlit just released the interview they had with me! Check it out if you want to get some idea of what my research on interpretability and (legal) argument mining is about! <a href="https://medium.com/@moonlitai.legal/interpreting-machines-that-interpret-language-interview-with-jonathan-phd-candidate-at-moonlit-24f4fa233ce1">Interpreting machines that interpret language</a>"
+---
