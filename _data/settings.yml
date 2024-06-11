@@ -13,8 +13,8 @@ contacts:
 - {name: 'Jonathan Kamp', role: 'PhD Candidate', department: 'Computational Linguistics and Text Mining Lab', institution: 'Vrije Universiteit Amsterdam', email: 'j.b.kamp~at~vu.nl', image: 'assets/img/cltl_logo.png'}
 
 teachings:
-- {name: 'NLP Research Seminar', institution: 'Vrije Universiteit Amsterdam', date: 'September-October 2022', description: 'Research MA Human Language Technology'}
-- {name: 'Computational Linguistics', institution: 'Utrecht University', date: 'April-June 2019', description: 'BSc Artificial Intelligence'}
-- {name: 'Taal en Computer <i>(Language and Computation)</i>', institution: 'Utrecht University', date: 'February-April 2019', description: 'BA Linguistics'}
-- {name: 'Digital Methods in Linguistics', institution: 'Utrecht University', date: 'September-November 2018', description: 'Research MA Linguistics'}
-- {name: 'Computational Linguistics', institution: 'Utrecht University', date: 'April-June 2018', description: 'BSc Artificial Intelligence'}
+- {name: 'NLP Research Seminar, instructor', institution: 'Vrije Universiteit Amsterdam', date: 'September-October 2022', description: 'Research MA Human Language Technology'}
+- {name: 'Computational Linguistics, teaching assistant', institution: 'Utrecht University', date: 'April-June 2019', description: 'BSc Artificial Intelligence'}
+- {name: 'Taal en Computer <i>(Language and Computation)</i>, teaching assistant', institution: 'Utrecht University', date: 'February-April 2019', description: 'BA Linguistics'}
+- {name: 'Digital Methods in Linguistics, teaching assistant', institution: 'Utrecht University', date: 'September-November 2018', description: 'Research MA Linguistics'}
+- {name: 'Computational Linguistics, teaching assistant', institution: 'Utrecht University', date: 'April-June 2018', description: 'BSc Artificial Intelligence'}
