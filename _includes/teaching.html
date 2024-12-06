@@ -2,12 +2,14 @@
   <div>
     <h3 class="fw-bold border-bottom pb-3 mb-5">Teaching</h3>
     {% for teaching in site.data.settings.teachings %}
-    <div class="row g-b mb-5">
+    <div class="teaching-block" style="margin-bottom: 10px;">
       <p style="margin-bottom: 5px; line-height: 1.2;"><b>{{ teaching.name }}</b></p>
       <p style="margin-bottom: 5px; line-height: 1.2;">{{ teaching.institution }}, {{ teaching.date }}</p>
       <p style="margin-bottom: 5px; line-height: 1.2;">{{ teaching.description }}</p>
     </div>
+    {% if forloop.last == false %}
+    <hr style="margin: 10px 0;">
+    {% endif %}
     {% endfor %}
   </div>
 </div>
-
