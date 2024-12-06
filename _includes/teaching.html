@@ -3,10 +3,11 @@
     <h3 class="fw-bold border-bottom pb-3 mb-5">Teaching</h3>
     {% for teaching in site.data.settings.teachings %}
     <div class="row g-b mb-5">
-      <p><b>{{ teaching.name }}</b></p>
-      <p>{{ teaching.institution }}, {{ teaching.date }}</p>
-      <p>{{ teaching.description }}</p>
+      <p style="margin-bottom: 5px; line-height: 1.2;"><b>{{ teaching.name }}</b></p>
+      <p style="margin-bottom: 5px; line-height: 1.2;">{{ teaching.institution }}, {{ teaching.date }}</p>
+      <p style="margin-bottom: 5px; line-height: 1.2;">{{ teaching.description }}</p>
     </div>
     {% endfor %}
   </div>
 </div>
+
