@@ -10,7 +10,7 @@ social:
 - {icon: 'linkedin', link: 'https://linkedin.com/in/jonathan-kamp'}
 
 contacts:
-- {name: 'Jonathan Kamp', role: 'PhD Candidate', department: 'Computational Linguistics and Text Mining Lab', institution: 'Vrije Universiteit Amsterdam', email: 'j.b.kamp~at~vu.nl', image: 'assets/img/cltl_logo.png'}
+- {name: 'Jonathan Kamp', role: 'PhD Candidate', department: 'Computational Linguistics and Text Mining Lab', institution: 'Vrije Universiteit Amsterdam', email: 'jonathanbenkamp~at~gmail.com', image: 'assets/img/cltl_logo.png'}
 
 teachings:
 - {name: 'Methods of Authorship Analysis, teacher', institution: 'Vrije Universiteit Amsterdam', date: 'October-December 2024', description: 'Research MA Forensic Linguistics'}
